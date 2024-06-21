@@ -1,5 +1,5 @@
 import express from 'express'
-import { getAllSongs } from "../controllers/SongControllers.js";
+import { getAllSongs } from "../controllers/SongControllers.js"
 
 const router = express.Router()
 
